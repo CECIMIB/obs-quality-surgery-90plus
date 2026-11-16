@@ -1,6 +1,6 @@
 ## Status and manuscript use
 
-**NOT FINAL OR VALIDATED FOR ZENODO RELEASE.** This archive preserves the 13 spreadsheet/script files byte-for-byte under stable descriptive names. It also includes the V7 source matrix, two recovered dictionaries, a compatibility reference copy, the existing three main and 20 numbered supplementary tables, and the 4 main plus 8 supplementary figure PDFs. No published Zenodo DOI has been assigned. Some were independently written to reproduce results originally calculated in Python; exact numerical agreement has **not** been established.
+This archive preserves the 13 spreadsheet/script files byte-for-byte under stable descriptive names. It also includes the V7 source matrix, two recovered dictionaries, a compatibility reference copy, the existing three main and 20 numbered supplementary tables, and the 4 main plus 8 supplementary figure PDFs. No published Zenodo DOI has been assigned. Some were independently written to reproduce results originally calculated in Python; exact numerical agreement has **not** been established.
 
 The manuscript may cite the labels **Supplementary Data 1–7** for XLSX evidence files, and **Supplementary Code 1–6** for R scripts, provided the labels are defined in the repository inventory. These labels are **Zenodo asset identifiers**, not Springer Nature's journal submission 'Additional file' numbering. The journal 'Additional file' numbers must be set separately in final order of citation. The file names are stable within this draft archive.
 
