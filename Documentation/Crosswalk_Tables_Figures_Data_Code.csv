@@ -1,0 +1,36 @@
+﻿manuscript_element,supporting_supplementary_data,supporting_R_code,interpretive_note
+Main Table 1,SD01; SD02,SC01,"Publication, geographic, clinical, design and reporting characteristics."
+Main Table 2,SD02; SD05,SC01; SC04,"STROBE item ratings, JBI cohort and other design appraisal."
+Main Table 3,SD05; SD06; SD07,SC04; SC05; SC06,"Exploratory associations, distinguished by original model and multiplicity family."
+Main Figure 1,SD05,SC04 (analysis only),Item-level STROBE and JBI ratings; figure-specific R code not included.
+Main Figure 2,SD06,SC05 (analysis only),Priority model associations; figure-specific R code not included.
+Main Figure 3,SD06,SC05 (analysis only),Geriatrician and comprehensive geriatric assessment; figure-specific R code not included.
+Main Figure 4,SD07,SC06 (analysis only),Adjusted profiles; dedicated marginal standardization plotting code not included.
+Supplementary Table S1,SD01; SD02,SC01,"Editorial, collaboration and geography descriptors."
+Supplementary Table S2,SD01; SD02,SC01,"Clinical, surgical and methodological descriptors."
+Supplementary Table S3,SD05,SC04 (analysis only),Full 22 STROBE item distribution.
+Supplementary Table S4,SD05,SC04 (analysis only),Full 11-item JBI cohort distribution.
+Supplementary Table S5,SD01; SD02,SC01,JBI other-design items; not covered by the JBI cohort models.
+Supplementary Table S6,SD06,SC05,"Denominators, rare outcomes and estimability."
+Supplementary Table S7,SD05,SC04,Alternate GEE and fractional model outputs; SC04 contains non-equivalent clmm implementation.
+Supplementary Table S8,SD07,SC06,Candidate associations for high STROBE adherence.
+Supplementary Table S9,SD07,SC06,Candidate associations for fractional JBI cohort score.
+Supplementary Table S10,SD07,SC06,Polytomous adjusted omnibus comparisons.
+Supplementary Table S11,SD07,SC06,"JBI robust OLS, bootstrap and leave-one-out sensitivities."
+Supplementary Table S12,SD07,SC06,Joint multivariable sensitivity models.
+Supplementary Table S13,SD06,SC05,Full priority adjusted coefficients.
+Supplementary Table S14,SD06,SC05,"Directed threshold, weighting and robustness tests."
+Supplementary Table S15,SD05; SD06,SC04; SC05,Model audit and estimation constraints.
+Supplementary Table S16,SD03,SC02,"Outcome-wise 3,934-comparison inventory."
+Supplementary Table S17,SD03,SC02,Globally BH-significant bivariate results.
+Supplementary Table S18,SD03,SC02,Focused descriptive bivariate tests; distinguish within-outcome q vs global q.
+Supplementary Table S19,SD04,SC03,Extended effect sizes and estimability; contains two table objects under S19.
+Supplementary Table S20,SD01; SD02,SC01,Preoperative assessment documentation and timing.
+Supplementary Figure S1,SD05,SC04 (analysis only),STROBE study-by-item heatmap; dedicated plotting R script pending.
+Supplementary Figure S2,SD05; SD06,SC04; SC05 (analysis only),STROBE ranked distribution; dedicated plotting R script pending.
+Supplementary Figure S3,SD05,SC04 (analysis only),JBI study-by-item heatmap; dedicated plotting R script pending.
+Supplementary Figure S4,SD06,SC05 (analysis only),STROBE threshold and partial-credit sensitivity; dedicated plotting R script pending.
+Supplementary Figure S5,SD05; SD06,SC04; SC05 (analysis only),Leave-one-out and alternate model specification sensitivity; plotting code pending.
+Supplementary Figure S6,SD03,SC02 (analysis only),"Multiplicity over 3,934 comparisons; plotting code pending."
+Supplementary Figure S7,SD07,SC06 (analysis only),Evidence map of adjusted candidate associations; plotting code pending.
+Supplementary Figure S8,SD07,SC06 (analysis only),JBI HC3/bootstrap/LOO stability; plotting code pending.

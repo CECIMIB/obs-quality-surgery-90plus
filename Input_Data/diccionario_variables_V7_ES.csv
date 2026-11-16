@@ -1,0 +1,376 @@
+﻿orden,columna_excel,publicacion,dominio,subdominio,nombre_original,nombre_final,tipo
+1,A,P1,Producción científica y colaboración,P1. Producción científica y colaboración,Titulo,Título de la publicación,texto libre / identificador
+2,B,P1,Producción científica y colaboración,P1. Producción científica y colaboración,DOI,Identificador DOI de la publicación,texto libre / identificador
+3,C,P1,Producción científica y colaboración,P1. Producción científica y colaboración,Tipologia_Manuscrito,Tipología documental,categórica
+4,D,P1,Producción científica y colaboración,P1. Producción científica y colaboración,Ano_Publicacion,Año de publicación,numérica
+5,E,P1,Producción científica y colaboración,P1. Producción científica y colaboración,Anos_hasta_2026,Antigüedad de publicación en 2026,numérica
+6,F,P1,Producción científica y colaboración,P1. Producción científica y colaboración,Citas_acumuladas,Citas acumuladas por publicación,numérica
+7,G,P1,Producción científica y colaboración,P1. Producción científica y colaboración,Revista_SJR,Revista de publicación,categórica
+8,H,P1,Producción científica y colaboración,P1. Producción científica y colaboración,ISSN,ISSN de la revista,texto libre / identificador
+9,I,P1,Producción científica y colaboración,P1. Producción científica y colaboración,num_autores,Autores por publicación,numérica
+10,J,P1,Producción científica y colaboración,P1. Producción científica y colaboración,num_afiliaciones,Afiliaciones institucionales por publicación,numérica
+11,K,P1,Producción científica y colaboración,P1. Producción científica y colaboración,num_paises,Países participantes por publicación,numérica
+12,L,P1,Producción científica y colaboración,P1. Producción científica y colaboración,paises_participantes,Identidad de los países participantes,texto libre / identificador
+13,M,P1,Producción científica y colaboración,P1. Producción científica y colaboración,pais_correspondencia,País de correspondencia del autor,categórica
+14,N,P1,Producción científica y colaboración,P1. Producción científica y colaboración,pais_principal,País principal del estudio,categórica
+15,O,P1,Producción científica y colaboración,P1. Producción científica y colaboración,colab_internacional,Colaboración internacional declarada,categórica
+16,P,P1,Producción científica y colaboración,P1. Producción científica y colaboración,Region_pais_principal,Región del país principal,categórica
+17,Q,P1,Producción científica y colaboración,P1. Producción científica y colaboración,Ingreso_pais_principal,Nivel de ingreso del país principal,categórica
+18,R,P1,Producción científica y colaboración,P1. Producción científica y colaboración,Region_pais_corr,Región del país de correspondencia,categórica
+19,S,P1,Producción científica y colaboración,P1. Producción científica y colaboración,Ingreso_pais_corr,Nivel de ingreso del país de correspondencia,categórica
+20,T,P1,Producción científica y colaboración,P1. Producción científica y colaboración,todos_los_ingresos,Composición de ingreso de los países participantes,categórica
+21,U,P1,Producción científica y colaboración,P1. Producción científica y colaboración,Part_Low_Income,Participación de países de ingreso bajo,categórica
+22,V,P1,Producción científica y colaboración,P1. Producción científica y colaboración,Part_Lower_Middle,Participación de países de ingreso mediano bajo,categórica
+23,W,P1,Producción científica y colaboración,P1. Producción científica y colaboración,Part_Upper_Middle,Participación de países de ingreso mediano alto,categórica
+24,X,P1,Producción científica y colaboración,P1. Producción científica y colaboración,Part_High_Income,Participación de países de ingreso alto,categórica
+25,Y,P1,Visibilidad e indicadores editoriales,P1. Visibilidad e indicadores editoriales,Areas_Publicacion,Área de publicación clasificada,categórica
+26,Z,P1,Visibilidad e indicadores editoriales,P1. Visibilidad e indicadores editoriales,Areas_2026,Área de publicación en 2026,categórica
+27,AA,P1,Visibilidad e indicadores editoriales,P1. Visibilidad e indicadores editoriales,OpenAccess_SJR,Acceso abierto según SJR,categórica
+28,AB,P1,Visibilidad e indicadores editoriales,P1. Visibilidad e indicadores editoriales,OpenAccessDiamond_SJR,Acceso abierto diamante según SJR,categórica
+29,AC,P1,Visibilidad e indicadores editoriales,P1. Visibilidad e indicadores editoriales,SJR,Indicador SJR de la revista en registro original,numérica
+30,AD,P1,Visibilidad e indicadores editoriales,P1. Visibilidad e indicadores editoriales,SJR_2026,Indicador SJR de la revista en 2026,numérica
+31,AE,P1,Visibilidad e indicadores editoriales,P1. Visibilidad e indicadores editoriales,SJR Best Quartile,Mejor cuartil SJR de la revista,categórica
+32,AF,P1,Visibilidad e indicadores editoriales,P1. Visibilidad e indicadores editoriales,Quartil_2026,Cuartil SJR de la revista en 2026,categórica
+33,AG,P1,Visibilidad e indicadores editoriales,P1. Visibilidad e indicadores editoriales,H index,Índice h de la revista en registro original,numérica
+34,AH,P1,Visibilidad e indicadores editoriales,P1. Visibilidad e indicadores editoriales,H_index_2026,Índice h de la revista en 2026,numérica
+35,AI,P1,Visibilidad e indicadores editoriales,P1. Visibilidad e indicadores editoriales,Total Docs. (3years),Documentos publicados por la revista en tres años,numérica
+36,AJ,P1,Visibilidad e indicadores editoriales,P1. Visibilidad e indicadores editoriales,Total Citations (3years),Citas recibidas por la revista en tres años,numérica
+37,AK,P1,Visibilidad e indicadores editoriales,P1. Visibilidad e indicadores editoriales,Citable Docs. (3years),Documentos citables de la revista en tres años,numérica
+38,AL,P1,Visibilidad e indicadores editoriales,P1. Visibilidad e indicadores editoriales,Citations / Doc. (2years),Citas por documento de la revista en dos años,numérica
+39,AM,P1,Visibilidad e indicadores editoriales,P1. Visibilidad e indicadores editoriales,%Female,Proporción de autoras en la revista,numérica
+40,AN,P1,"Diseño, concepto y transparencia","P1. Diseño, concepto y transparencia",titulo_articulo,Título normalizado del estudio,texto libre / identificador
+41,AO,P1,"Diseño, concepto y transparencia","P1. Diseño, concepto y transparencia",poblacion_predominante,Población de longevidad extrema estudiada,categórica
+42,AP,P1,"Diseño, concepto y transparencia","P1. Diseño, concepto y transparencia",especialidad_quirurgica,Especialidad quirúrgica estudiada,categórica
+43,AQ,P1,"Diseño, concepto y transparencia","P1. Diseño, concepto y transparencia",area_conocimiento_medico,Área clínica de conocimiento,categórica
+44,AR,P1,"Diseño, concepto y transparencia","P1. Diseño, concepto y transparencia",condicion_clinica_estudiada,Condición clínica que motivó la intervención,categórica
+45,AS,P1,"Diseño, concepto y transparencia","P1. Diseño, concepto y transparencia",condicion_clinica_relacionada,Condiciones clínicas relacionadas,categórica
+46,AT,P1,"Diseño, concepto y transparencia","P1. Diseño, concepto y transparencia",intervencion_quirurgica,Procedimiento quirúrgico estudiado,categórica
+47,AU,P1,"Diseño, concepto y transparencia","P1. Diseño, concepto y transparencia",cirugia_electiva_urgencia,Carácter electivo o urgente de la cirugía,categórica
+48,AV,P1,"Diseño, concepto y transparencia","P1. Diseño, concepto y transparencia",resumen_estructurado,Presencia de resumen estructurado,categórica
+49,AW,P1,"Diseño, concepto y transparencia","P1. Diseño, concepto y transparencia",palabras_clave,Palabras clave registradas,texto libre / identificador
+50,AX,P1,"Diseño, concepto y transparencia","P1. Diseño, concepto y transparencia",diseno_metodologico,Diseño metodológico declarado,categórica
+51,AY,P1,"Diseño, concepto y transparencia","P1. Diseño, concepto y transparencia",linealidad_recoleccion,Dirección temporal de la recolección,categórica
+52,AZ,P1,"Diseño, concepto y transparencia","P1. Diseño, concepto y transparencia",adherencia_guia_reporte,Adherencia explícita a una guía de reporte,categórica
+53,BA,P1,"Diseño, concepto y transparencia","P1. Diseño, concepto y transparencia",nivel_estadistico,Complejidad del análisis estadístico publicado,categórica
+54,BB,P1,"Diseño, concepto y transparencia","P1. Diseño, concepto y transparencia",financiacion,Declaración de financiación,categórica
+55,BC,P1,"Diseño, concepto y transparencia","P1. Diseño, concepto y transparencia",entidad_financiadora,Entidad financiadora identificada,texto libre / identificador
+56,BD,P1,"Diseño, concepto y transparencia","P1. Diseño, concepto y transparencia",acceso_abierto,Disponibilidad en acceso abierto,categórica
+57,BE,P1,"Diseño, concepto y transparencia","P1. Diseño, concepto y transparencia",conflictos_interes,Declaración sobre conflictos de interés,categórica
+58,BF,P1,"Diseño, concepto y transparencia","P1. Diseño, concepto y transparencia",datos_abiertos,Disponibilidad declarada de datos abiertos,categórica
+59,BG,P1,"Diseño, concepto y transparencia","P1. Diseño, concepto y transparencia",declaraciones_eticas,Declaración de revisión ética,categórica
+60,BH,P1,"Diseño, concepto y transparencia","P1. Diseño, concepto y transparencia",inclusion_geriatra,Participación de especialista en geriatría,categórica
+61,BI,P1,Población y selección de participantes,P1. Población y selección de participantes,tamano_muestra,Tamaño muestral del estudio,numérica
+62,BJ,P1,Población y selección de participantes,P1. Población y selección de participantes,mujeres,Mujeres incluidas por estudio,numérica
+63,BK,P1,Población y selección de participantes,P1. Población y selección de participantes,hombres,Hombres incluidos por estudio,numérica
+64,BL,P1,Población y selección de participantes,P1. Población y selección de participantes,media_mediana_edad,Edad central reportada por estudio,numérica
+65,BM,P1,Población y selección de participantes,P1. Población y selección de participantes,criterios_inclusion_definidos,Criterios de inclusión definidos,categórica
+66,BN,P1,Población y selección de participantes,P1. Población y selección de participantes,criterios_exclusion_definidos,Criterios de exclusión definidos,categórica
+67,BO,P2,Evaluación geriátrica y fenotipos,P2. Evaluación geriátrica y fenotipos,definicion_fenotipo,Definición explícita de fenotipo de salud,categórica
+68,BP,P2,Evaluación geriátrica y fenotipos,P2. Evaluación geriátrica y fenotipos,uso_cgam,Evaluación geriátrica integral declarada,categórica
+69,BQ,P2,Evaluación geriátrica y fenotipos,P2. Evaluación geriátrica y fenotipos,fragilidad_evaluada,Fragilidad evaluada en el estudio,categórica
+70,BR,P2,Evaluación geriátrica y fenotipos,P2. Evaluación geriátrica y fenotipos,sarcopenia_evaluada,Sarcopenia evaluada en el estudio,categórica
+71,BS,P2,Evaluación geriátrica y fenotipos,P2. Evaluación geriátrica y fenotipos,estado_nutricional_evaluado,Estado nutricional evaluado en el estudio,categórica
+72,BT,P2,Evaluación geriátrica y fenotipos,P2. Evaluación geriátrica y fenotipos,calidad_vida_evaluada,Calidad de vida evaluada en el estudio,categórica
+73,BU,P2,Evaluación geriátrica y fenotipos,P2. Evaluación geriátrica y fenotipos,independencia_funcional_evaluada,Independencia funcional evaluada en el estudio,categórica
+74,BV,P2,Evaluación geriátrica y fenotipos,P2. Evaluación geriátrica y fenotipos,bienestar_subjetivo_evaluado,Bienestar subjetivo evaluado en el estudio,categórica
+75,BW,P2,Evaluación geriátrica y fenotipos,P2. Evaluación geriátrica y fenotipos,estado_cognitivo_evaluado,Estado cognitivo evaluado en el estudio,categórica
+76,BX,P2,Evaluación geriátrica y fenotipos,P2. Evaluación geriátrica y fenotipos,rehabilitacion_funcional_evaluada,Rehabilitación funcional evaluada en el estudio,categórica
+77,BY,P2,Evaluación geriátrica y fenotipos,P2. Evaluación geriátrica y fenotipos,comorbilidades_evaluadas,Comorbilidades evaluadas en el estudio,categórica
+78,BZ,P2,Evaluación geriátrica y fenotipos,P2. Evaluación geriátrica y fenotipos,polifarmacia_evaluada,Polifarmacia evaluada en el estudio,categórica
+79,CA,P2,Evaluación geriátrica y fenotipos,P2. Evaluación geriátrica y fenotipos,mortalidad_evaluada,Mortalidad evaluada como desenlace,categórica
+80,CB,P2,Evaluación geriátrica y fenotipos,P2. Evaluación geriátrica y fenotipos,complicaciones_evaluadas,Complicaciones posoperatorias evaluadas,categórica
+81,CC,P2,Evaluación geriátrica y fenotipos,P2. Evaluación geriátrica y fenotipos,estancia_hospitalaria_evaluada,Estancia hospitalaria evaluada,categórica
+82,CD,P2,Evaluación geriátrica y fenotipos,P2. Evaluación geriátrica y fenotipos,necesidad_reintervencion_evaluada,Necesidad de reintervención evaluada,categórica
+83,CE,P2,Evaluación geriátrica y fenotipos,P2. Evaluación geriátrica y fenotipos,perdida_funcionalidad_reportada,Pérdida de funcionalidad reportada,categórica
+84,CF,P2,Inventario de instrumentos,P2. Instrumentos | Comorbilidad y riesgo perioperatorio,ESC | ASA-PS,Utilización documentada de ASA-PS,categórica
+85,CG,P2,Inventario de instrumentos,P2. Instrumentos | Comorbilidad y riesgo perioperatorio,ESC | CCI (Charlson),Utilización documentada de CCI (Charlson),categórica
+86,CH,P2,Inventario de instrumentos,P2. Instrumentos | Comorbilidad y riesgo perioperatorio,ESC | aCCI,Utilización documentada de aCCI,categórica
+87,CI,P2,Inventario de instrumentos,P2. Instrumentos | Comorbilidad y riesgo perioperatorio,ESC | Charlson-Deyo,Utilización documentada de Charlson-Deyo,categórica
+88,CJ,P2,Inventario de instrumentos,P2. Instrumentos | Comorbilidad y riesgo perioperatorio,ESC | Índice de Deyo,Utilización documentada de Índice de Deyo,categórica
+89,CK,P2,Inventario de instrumentos,P2. Instrumentos | Comorbilidad y riesgo perioperatorio,ESC | Elixhauser modificado,Utilización documentada de Elixhauser modificado,categórica
+90,CL,P2,Inventario de instrumentos,P2. Instrumentos | Comorbilidad y riesgo perioperatorio,ESC | GIC,Utilización documentada de GIC,categórica
+91,CM,P2,Inventario de instrumentos,P2. Instrumentos | Comorbilidad y riesgo perioperatorio,ESC | CIRS-G,Utilización documentada de CIRS-G,categórica
+92,CN,P2,Inventario de instrumentos,P2. Instrumentos | Comorbilidad y riesgo perioperatorio,ESC | GPS (comorbilidad-polifarmacia),Utilización documentada de GPS (comorbilidad-polifarmacia),categórica
+93,CO,P2,Inventario de instrumentos,P2. Instrumentos | Comorbilidad y riesgo perioperatorio,ESC | Recuento de diagnósticos,Utilización documentada de Recuento de diagnósticos,categórica
+94,CP,P2,Inventario de instrumentos,P2. Instrumentos | Comorbilidad y riesgo perioperatorio,ESC | NYHA,Utilización documentada de NYHA,categórica
+95,CQ,P2,Inventario de instrumentos,P2. Instrumentos | Comorbilidad y riesgo perioperatorio,ESC | POSSUM,Utilización documentada de POSSUM,categórica
+96,CR,P2,Inventario de instrumentos,P2. Instrumentos | Comorbilidad y riesgo perioperatorio,ESC | P-POSSUM,Utilización documentada de P-POSSUM,categórica
+97,CS,P2,Inventario de instrumentos,P2. Instrumentos | Comorbilidad y riesgo perioperatorio,ESC | CR-POSSUM,Utilización documentada de CR-POSSUM,categórica
+98,CT,P2,Inventario de instrumentos,P2. Instrumentos | Comorbilidad y riesgo perioperatorio,ESC | E-POSSUM,Utilización documentada de E-POSSUM,categórica
+99,CU,P2,Inventario de instrumentos,P2. Instrumentos | Comorbilidad y riesgo perioperatorio,ESC | POSSUM modificado,Utilización documentada de POSSUM modificado,categórica
+100,CV,P2,Inventario de instrumentos,P2. Instrumentos | Comorbilidad y riesgo perioperatorio,ESC | S-MPM,Utilización documentada de S-MPM,categórica
+101,CW,P2,Inventario de instrumentos,P2. Instrumentos | Comorbilidad y riesgo perioperatorio,ESC | ACS-NSQIP Risk Calculator,Utilización documentada de ACS-NSQIP Risk Calculator,categórica
+102,CX,P2,Inventario de instrumentos,P2. Instrumentos | Comorbilidad y riesgo perioperatorio,ESC | Nottingham Hip Fracture Score (NHFS),Utilización documentada de Nottingham Hip Fracture Score (NHFS),categórica
+103,CY,P2,Inventario de instrumentos,P2. Instrumentos | Comorbilidad y riesgo perioperatorio,ESC | Almelo Hip Fracture Score (AHFS),Utilización documentada de Almelo Hip Fracture Score (AHFS),categórica
+104,CZ,P2,Inventario de instrumentos,P2. Instrumentos | Fragilidad,ESC | Clinical Frailty Scale (CFS),Utilización documentada de Clinical Frailty Scale (CFS),categórica
+105,DA,P2,Inventario de instrumentos,P2. Instrumentos | Fragilidad,ESC | mFI-5,Utilización documentada de mFI-5,categórica
+106,DB,P2,Inventario de instrumentos,P2. Instrumentos | Fragilidad,ESC | mFI-2,Utilización documentada de mFI-2,categórica
+107,DC,P2,Inventario de instrumentos,P2. Instrumentos | Fragilidad,ESC | FRAIL Scale,Utilización documentada de FRAIL Scale,categórica
+108,DD,P2,Inventario de instrumentos,P2. Instrumentos | Fragilidad,ESC | Frail-VIG,Utilización documentada de Frail-VIG,categórica
+109,DE,P2,Inventario de instrumentos,P2. Instrumentos | Nutrición,ESC | GNRI,Utilización documentada de GNRI,categórica
+110,DF,P2,Inventario de instrumentos,P2. Instrumentos | Nutrición,ESC | MNA,Utilización documentada de MNA,categórica
+111,DG,P2,Inventario de instrumentos,P2. Instrumentos | Nutrición,ESC | MNA-SF,Utilización documentada de MNA-SF,categórica
+112,DH,P2,Inventario de instrumentos,P2. Instrumentos | Nutrición,ESC | SNAQ,Utilización documentada de SNAQ,categórica
+113,DI,P2,Inventario de instrumentos,P2. Instrumentos | Nutrición,ESC | MUST,Utilización documentada de MUST,categórica
+114,DJ,P2,Inventario de instrumentos,P2. Instrumentos | Estado clínico y resultados específicos,ESC | Norton,Utilización documentada de Norton,categórica
+115,DK,P2,Inventario de instrumentos,P2. Instrumentos | Estado clínico y resultados específicos,ESC | Morse,Utilización documentada de Morse,categórica
+116,DL,P2,Inventario de instrumentos,P2. Instrumentos | Cognición y estado neuropsicológico,ESC | MMSE,Utilización documentada de MMSE,categórica
+117,DM,P2,Inventario de instrumentos,P2. Instrumentos | Cognición y estado neuropsicológico,ESC | Mini Mental Test (MTS),Utilización documentada de Mini Mental Test (MTS),categórica
+118,DN,P2,Inventario de instrumentos,P2. Instrumentos | Cognición y estado neuropsicológico,ESC | AMTS,Utilización documentada de AMTS,categórica
+119,DO,P2,Inventario de instrumentos,P2. Instrumentos | Cognición y estado neuropsicológico,ESC | Pfeiffer SPMSQ,Utilización documentada de Pfeiffer SPMSQ,categórica
+120,DP,P2,Inventario de instrumentos,P2. Instrumentos | Cognición y estado neuropsicológico,ESC | CAM,Utilización documentada de CAM,categórica
+121,DQ,P2,Inventario de instrumentos,P2. Instrumentos | Cognición y estado neuropsicológico,ESC | Reisberg GDS,Utilización documentada de Reisberg GDS,categórica
+122,DR,P2,Inventario de instrumentos,P2. Instrumentos | Funcionalidad y movilidad,ESC | Barthel Index,Utilización documentada de Barthel Index,categórica
+123,DS,P2,Inventario de instrumentos,P2. Instrumentos | Funcionalidad y movilidad,ESC | Katz ADL,Utilización documentada de Katz ADL,categórica
+124,DT,P2,Inventario de instrumentos,P2. Instrumentos | Funcionalidad y movilidad,ESC | Lawton-Brody IADL,Utilización documentada de Lawton-Brody IADL,categórica
+125,DU,P2,Inventario de instrumentos,P2. Instrumentos | Funcionalidad y movilidad,ESC | FAC,Utilización documentada de FAC,categórica
+126,DV,P2,Inventario de instrumentos,P2. Instrumentos | Funcionalidad y movilidad,ESC | Parker Mobility Score,Utilización documentada de Parker Mobility Score,categórica
+127,DW,P2,Inventario de instrumentos,P2. Instrumentos | Funcionalidad y movilidad,ESC | New Mobility Score,Utilización documentada de New Mobility Score,categórica
+128,DX,P2,Inventario de instrumentos,P2. Instrumentos | Funcionalidad y movilidad,ESC | ECOG,Utilización documentada de ECOG,categórica
+129,DY,P2,Inventario de instrumentos,P2. Instrumentos | Funcionalidad y movilidad,ESC | Karnofsky Performance Scale,Utilización documentada de Karnofsky Performance Scale,categórica
+130,DZ,P2,Inventario de instrumentos,P2. Instrumentos | Cognición y estado neuropsicológico,ESC | Glasgow Coma Scale,Utilización documentada de Glasgow Coma Scale,categórica
+131,EA,P2,Inventario de instrumentos,P2. Instrumentos | Funcionalidad y movilidad,ESC | Modified Rankin Scale,Utilización documentada de Modified Rankin Scale,categórica
+132,EB,P2,Inventario de instrumentos,P2. Instrumentos | Funcionalidad y movilidad,ESC | ASIA,Utilización documentada de ASIA,categórica
+133,EC,P2,Inventario de instrumentos,P2. Instrumentos | Funcionalidad y movilidad,ESC | Japanese LTCI Grade,Utilización documentada de Japanese LTCI Grade,categórica
+134,ED,P2,Inventario de instrumentos,P2. Instrumentos | Estado clínico y resultados específicos,ESC | Knee Society Score,Utilización documentada de Knee Society Score,categórica
+135,EE,P2,Inventario de instrumentos,P2. Instrumentos | Estado clínico y resultados específicos,ESC | Harris Hip Score,Utilización documentada de Harris Hip Score,categórica
+136,EF,P2,Inventario de instrumentos,P2. Instrumentos | Estado clínico y resultados específicos,ESC | Oxford Hip Score,Utilización documentada de Oxford Hip Score,categórica
+137,EG,P2,Inventario de instrumentos,P2. Instrumentos | Estado clínico y resultados específicos,ESC | Oxford Knee Score,Utilización documentada de Oxford Knee Score,categórica
+138,EH,P2,Inventario de instrumentos,P2. Instrumentos | Estado clínico y resultados específicos,ESC | EQ-5D,Utilización documentada de EQ-5D,categórica
+139,EI,P2,Inventario de instrumentos,P2. Instrumentos | Estado clínico y resultados específicos,ESC | EQ-VAS,Utilización documentada de EQ-VAS,categórica
+140,EJ,P2,Inventario de instrumentos,P2. Instrumentos | Estado clínico y resultados específicos,ESC | KOOS,Utilización documentada de KOOS,categórica
+141,EK,P2,Inventario de instrumentos,P2. Instrumentos | Estado clínico y resultados específicos,ESC | JOA Score,Utilización documentada de JOA Score,categórica
+142,EL,P2,Inventario de instrumentos,P2. Instrumentos | Estado clínico y resultados específicos,ESC | Pain Likert Scale,Utilización documentada de Pain Likert Scale,categórica
+143,EM,P2,Inventario de instrumentos,P2. Instrumentos | Estado clínico y resultados específicos,ESC | Charnley Classification,Utilización documentada de Charnley Classification,categórica
+144,EN,P2,Inventario de instrumentos,P2. Instrumentos | Estado clínico y resultados específicos,ESC | Rutherford Classification,Utilización documentada de Rutherford Classification,categórica
+145,EO,P2,Inventario de instrumentos,P2. Instrumentos | Comorbilidad y riesgo perioperatorio,ESC | RCRI / Lee Index,Utilización documentada de RCRI / Lee Index,categórica
+146,EP,P2,Inventario de instrumentos,P2. Instrumentos | Comorbilidad y riesgo perioperatorio,ESC | Reiss Index,Utilización documentada de Reiss Index,categórica
+147,EQ,P2,Inventario de instrumentos,P2. Instrumentos | Comorbilidad y riesgo perioperatorio,ESC | EuroSCORE II,Utilización documentada de EuroSCORE II,categórica
+148,ER,P2,Inventario de instrumentos,P2. Instrumentos | Comorbilidad y riesgo perioperatorio,ESC | JapanSCORE,Utilización documentada de JapanSCORE,categórica
+149,ES,P2,Inventario de instrumentos,P2. Instrumentos | Comorbilidad y riesgo perioperatorio,ESC | Donati Score,Utilización documentada de Donati Score,categórica
+150,ET,P2,Inventario de instrumentos,P2. Instrumentos | Comorbilidad y riesgo perioperatorio,ESC | Nassar Scale,Utilización documentada de Nassar Scale,categórica
+151,EU,P2,Inventario de instrumentos,P2. Instrumentos | Comorbilidad y riesgo perioperatorio,ESC | ISS (Injury Severity Score),Utilización documentada de ISS (Injury Severity Score),categórica
+152,EV,P2,Inventario de instrumentos,P2. Instrumentos | Comorbilidad y riesgo perioperatorio,ESC | NNIS Risk Index,Utilización documentada de NNIS Risk Index,categórica
+153,EW,P2,Inventario de instrumentos,P2. Instrumentos | Comorbilidad y riesgo perioperatorio,ESC | Johns Hopkins Classification,Utilización documentada de Johns Hopkins Classification,categórica
+154,EX,P2,Densidad instrumental y momento de medición,P2. Densidad instrumental y momento de medición,n_categorias,Cantidad de instrumentos de evaluación registrados,numérica
+155,EY,P2,Densidad instrumental y momento de medición,P2. Densidad instrumental y momento de medición,n_dos_o_mas,Utilización de dos o más instrumentos,categórica
+156,EZ,P2,Densidad instrumental y momento de medición,P2. Densidad instrumental y momento de medición,MOM | Preoperatorio,Medición realizada antes de la cirugía,categórica
+157,FA,P2,Densidad instrumental y momento de medición,P2. Densidad instrumental y momento de medición,MOM | Durante cirugía,Medición realizada durante la cirugía,categórica
+158,FB,P2,Densidad instrumental y momento de medición,P2. Densidad instrumental y momento de medición,MOM | Posoperatorio/UCI,Medición realizada en posoperatorio o UCI,categórica
+159,FC,P2,Desenlaces principales,P2. Desenlaces principales,PRI | Mortalidad,Desenlace primario de mortalidad documentado,categórica
+160,FD,P2,Desenlaces principales,P2. Desenlaces principales,PRI | Supervivencia,Desenlace primario de supervivencia documentado,categórica
+161,FE,P2,Desenlaces principales,P2. Desenlaces principales,PRI | Complicaciones/morbilidad,Desenlace primario de complicaciones/morbilidad documentado,categórica
+162,FF,P2,Desenlaces principales,P2. Desenlaces principales,PRI | Funcionalidad/movilidad,Desenlace primario de funcionalidad/movilidad documentado,categórica
+163,FG,P2,Desenlaces principales,P2. Desenlaces principales,PRI | Estancia hospitalaria/UCI,Desenlace primario de estancia hospitalaria/uci documentado,categórica
+164,FH,P2,Desenlaces principales,P2. Desenlaces principales,PRI | Reingreso/readmisión,Desenlace primario de reingreso/readmisión documentado,categórica
+165,FI,P2,Desenlaces principales,P2. Desenlaces principales,PRI | Reintervención/revisión,Desenlace primario de reintervención/revisión documentado,categórica
+166,FJ,P2,Desenlaces principales,P2. Desenlaces principales,PRI | Salvamento de extremidad/permeabilidad,Desenlace primario de salvamento de extremidad/permeabilidad documentado,categórica
+167,FK,P2,Desenlaces principales,P2. Desenlaces principales,PRI | Costos/recursos,Desenlace primario de costos/recursos documentado,categórica
+168,FL,P2,Desenlaces principales,P2. Desenlaces principales,PRI | Alta/residencia,Desenlace primario de alta/residencia documentado,categórica
+169,FM,P2,Desenlaces principales,P2. Desenlaces principales,PRI | Dolor,Desenlace primario de dolor documentado,categórica
+170,FN,P2,Desenlaces principales,P2. Desenlaces principales,PRI | Calidad de vida/PRO,Desenlace primario de calidad de vida/pro documentado,categórica
+171,FO,P2,Desenlaces principales,P2. Desenlaces principales,PRI | Sangrado/anemia/transfusión,Desenlace primario de sangrado/anemia/transfusión documentado,categórica
+172,FP,P2,Desenlaces principales,P2. Desenlaces principales,PRI | Cognición/delirium,Desenlace primario de cognición/delirium documentado,categórica
+173,FQ,P2,Desenlaces principales,P2. Desenlaces principales,PRI | Biomarcadores/fisiología,Desenlace primario de biomarcadores/fisiología documentado,categórica
+174,FR,P2,Desenlaces principales,P2. Desenlaces principales,PRI | Resultado técnico/quirúrgico,Desenlace primario de resultado técnico/quirúrgico documentado,categórica
+175,FS,P2,Desenlaces principales,P2. Desenlaces principales,PRI | Incidencia/tendencias,Desenlace primario de incidencia/tendencias documentado,categórica
+176,FT,P2,Desenlaces principales,P2. Desenlaces principales,PRI | Cáncer/desenlaces oncológicos,Desenlace primario de cáncer/desenlaces oncológicos documentado,categórica
+177,FU,P2,Desenlaces principales,P2. Desenlaces principales,PRI | Predicción/riesgo,Desenlace primario de predicción/riesgo documentado,categórica
+178,FV,P2,Desenlaces principales,P2. Desenlaces principales,n_categorias,Cantidad de categorías de desenlaces principales,numérica
+179,FW,P2,Desenlaces principales,P2. Desenlaces principales,n_dos_o_mas,Dos o más categorías de desenlaces principales,categórica
+180,FX,P2,Desenlaces secundarios,P2. Desenlaces secundarios,SEC | Mortalidad,Desenlace secundario de mortalidad documentado,categórica
+181,FY,P2,Desenlaces secundarios,P2. Desenlaces secundarios,SEC | Supervivencia,Desenlace secundario de supervivencia documentado,categórica
+182,FZ,P2,Desenlaces secundarios,P2. Desenlaces secundarios,SEC | Complicaciones/morbilidad,Desenlace secundario de complicaciones/morbilidad documentado,categórica
+183,GA,P2,Desenlaces secundarios,P2. Desenlaces secundarios,SEC | Funcionalidad/movilidad,Desenlace secundario de funcionalidad/movilidad documentado,categórica
+184,GB,P2,Desenlaces secundarios,P2. Desenlaces secundarios,SEC | Estancia hospitalaria/UCI,Desenlace secundario de estancia hospitalaria/uci documentado,categórica
+185,GC,P2,Desenlaces secundarios,P2. Desenlaces secundarios,SEC | Reingreso/readmisión,Desenlace secundario de reingreso/readmisión documentado,categórica
+186,GD,P2,Desenlaces secundarios,P2. Desenlaces secundarios,SEC | Reintervención/revisión,Desenlace secundario de reintervención/revisión documentado,categórica
+187,GE,P2,Desenlaces secundarios,P2. Desenlaces secundarios,SEC | Salvamento de extremidad/permeabilidad,Desenlace secundario de salvamento de extremidad/permeabilidad documentado,categórica
+188,GF,P2,Desenlaces secundarios,P2. Desenlaces secundarios,SEC | Costos/recursos,Desenlace secundario de costos/recursos documentado,categórica
+189,GG,P2,Desenlaces secundarios,P2. Desenlaces secundarios,SEC | Alta/residencia,Desenlace secundario de alta/residencia documentado,categórica
+190,GH,P2,Desenlaces secundarios,P2. Desenlaces secundarios,SEC | Dolor,Desenlace secundario de dolor documentado,categórica
+191,GI,P2,Desenlaces secundarios,P2. Desenlaces secundarios,SEC | Calidad de vida/PRO,Desenlace secundario de calidad de vida/pro documentado,categórica
+192,GJ,P2,Desenlaces secundarios,P2. Desenlaces secundarios,SEC | Sangrado/anemia/transfusión,Desenlace secundario de sangrado/anemia/transfusión documentado,categórica
+193,GK,P2,Desenlaces secundarios,P2. Desenlaces secundarios,SEC | Cognición/delirium,Desenlace secundario de cognición/delirium documentado,categórica
+194,GL,P2,Desenlaces secundarios,P2. Desenlaces secundarios,SEC | Biomarcadores/fisiología,Desenlace secundario de biomarcadores/fisiología documentado,categórica
+195,GM,P2,Desenlaces secundarios,P2. Desenlaces secundarios,SEC | Resultado técnico/quirúrgico,Desenlace secundario de resultado técnico/quirúrgico documentado,categórica
+196,GN,P2,Desenlaces secundarios,P2. Desenlaces secundarios,SEC | Incidencia/tendencias,Desenlace secundario de incidencia/tendencias documentado,categórica
+197,GO,P2,Desenlaces secundarios,P2. Desenlaces secundarios,SEC | Cáncer/desenlaces oncológicos,Desenlace secundario de cáncer/desenlaces oncológicos documentado,categórica
+198,GP,P2,Desenlaces secundarios,P2. Desenlaces secundarios,SEC | Predicción/riesgo,Desenlace secundario de predicción/riesgo documentado,categórica
+199,GQ,P2,Desenlaces secundarios,P2. Desenlaces secundarios,n_categorias,Cantidad de categorías de desenlaces secundarios,numérica
+200,GR,P2,Desenlaces secundarios,P2. Desenlaces secundarios,n_dos_o_mas,Dos o más categorías de desenlaces secundarios,categórica
+201,GS,P2,Morbilidad preoperatoria y condiciones geriátricas,P2. Morbilidad preoperatoria y condiciones geriátricas,% | AIT previo,Prevalencia intraestudio de ait previo,numérica
+202,GT,P2,Morbilidad preoperatoria y condiciones geriátricas,P2. Morbilidad preoperatoria y condiciones geriátricas,% | Anemia crónica / preoperatoria,Prevalencia intraestudio de anemia crónica / preoperatoria,numérica
+203,GU,P2,Morbilidad preoperatoria y condiciones geriátricas,P2. Morbilidad preoperatoria y condiciones geriátricas,% | Apnea del sueño,Prevalencia intraestudio de apnea del sueño,numérica
+204,GV,P2,Morbilidad preoperatoria y condiciones geriátricas,P2. Morbilidad preoperatoria y condiciones geriátricas,% | Arritmia cardíaca (no especificada),Prevalencia intraestudio de arritmia cardíaca (no especificada),numérica
+205,GW,P2,Morbilidad preoperatoria y condiciones geriátricas,P2. Morbilidad preoperatoria y condiciones geriátricas,% | Artritis / osteoartritis,Prevalencia intraestudio de artritis / osteoartritis,numérica
+206,GX,P2,Morbilidad preoperatoria y condiciones geriátricas,P2. Morbilidad preoperatoria y condiciones geriátricas,% | Cáncer / neoplasia,Prevalencia intraestudio de cáncer / neoplasia,numérica
+207,GY,P2,Morbilidad preoperatoria y condiciones geriátricas,P2. Morbilidad preoperatoria y condiciones geriátricas,% | Demencia,Prevalencia intraestudio de demencia,numérica
+208,GZ,P2,Morbilidad preoperatoria y condiciones geriátricas,P2. Morbilidad preoperatoria y condiciones geriátricas,% | Depresión / enfermedad psiquiátrica,Prevalencia intraestudio de depresión / enfermedad psiquiátrica,numérica
+209,HA,P2,Morbilidad preoperatoria y condiciones geriátricas,P2. Morbilidad preoperatoria y condiciones geriátricas,% | Diabetes mellitus,Prevalencia intraestudio de diabetes mellitus,numérica
+210,HB,P2,Morbilidad preoperatoria y condiciones geriátricas,P2. Morbilidad preoperatoria y condiciones geriátricas,% | Dislipidemia / hipercolesterolemia,Prevalencia intraestudio de dislipidemia / hipercolesterolemia,numérica
+211,HC,P2,Morbilidad preoperatoria y condiciones geriátricas,P2. Morbilidad preoperatoria y condiciones geriátricas,% | Enfermedad cardiovascular no especificada,Prevalencia intraestudio de enfermedad cardiovascular no especificada,numérica
+212,HD,P2,Morbilidad preoperatoria y condiciones geriátricas,P2. Morbilidad preoperatoria y condiciones geriátricas,% | Enfermedad cerebrovascular,Prevalencia intraestudio de enfermedad cerebrovascular,numérica
+213,HE,P2,Morbilidad preoperatoria y condiciones geriátricas,P2. Morbilidad preoperatoria y condiciones geriátricas,% | Enfermedad coronaria / cardiopatía isquémica,Prevalencia intraestudio de enfermedad coronaria / cardiopatía isquémica,numérica
+214,HF,P2,Morbilidad preoperatoria y condiciones geriátricas,P2. Morbilidad preoperatoria y condiciones geriátricas,% | Enfermedad de Parkinson,Prevalencia intraestudio de enfermedad de parkinson,numérica
+215,HG,P2,Morbilidad preoperatoria y condiciones geriátricas,P2. Morbilidad preoperatoria y condiciones geriátricas,% | Enfermedad gastrointestinal,Prevalencia intraestudio de enfermedad gastrointestinal,numérica
+216,HH,P2,Morbilidad preoperatoria y condiciones geriátricas,P2. Morbilidad preoperatoria y condiciones geriátricas,% | Enfermedad hepática,Prevalencia intraestudio de enfermedad hepática,numérica
+217,HI,P2,Morbilidad preoperatoria y condiciones geriátricas,P2. Morbilidad preoperatoria y condiciones geriátricas,% | Enfermedad musculoesquelética no especificada,Prevalencia intraestudio de enfermedad musculoesquelética no especificada,numérica
+218,HJ,P2,Morbilidad preoperatoria y condiciones geriátricas,P2. Morbilidad preoperatoria y condiciones geriátricas,% | Enfermedad renal crónica / insuficiencia renal,Prevalencia intraestudio de enfermedad renal crónica / insuficiencia renal,numérica
+219,HK,P2,Morbilidad preoperatoria y condiciones geriátricas,P2. Morbilidad preoperatoria y condiciones geriátricas,% | Enfermedad renal terminal / diálisis,Prevalencia intraestudio de enfermedad renal terminal / diálisis,numérica
+220,HL,P2,Morbilidad preoperatoria y condiciones geriátricas,P2. Morbilidad preoperatoria y condiciones geriátricas,% | Enfermedad respiratoria no especificada,Prevalencia intraestudio de enfermedad respiratoria no especificada,numérica
+221,HM,P2,Morbilidad preoperatoria y condiciones geriátricas,P2. Morbilidad preoperatoria y condiciones geriátricas,% | Enfermedad vascular periférica,Prevalencia intraestudio de enfermedad vascular periférica,numérica
+222,HN,P2,Morbilidad preoperatoria y condiciones geriátricas,P2. Morbilidad preoperatoria y condiciones geriátricas,% | EPOC,Prevalencia intraestudio de epoc,numérica
+223,HO,P2,Morbilidad preoperatoria y condiciones geriátricas,P2. Morbilidad preoperatoria y condiciones geriátricas,% | Fibrilación auricular,Prevalencia intraestudio de fibrilación auricular,numérica
+224,HP,P2,Morbilidad preoperatoria y condiciones geriátricas,P2. Morbilidad preoperatoria y condiciones geriátricas,% | Hiperplasia prostática,Prevalencia intraestudio de hiperplasia prostática,numérica
+225,HQ,P2,Morbilidad preoperatoria y condiciones geriátricas,P2. Morbilidad preoperatoria y condiciones geriátricas,% | Hipertensión arterial,Prevalencia intraestudio de hipertensión arterial,numérica
+226,HR,P2,Morbilidad preoperatoria y condiciones geriátricas,P2. Morbilidad preoperatoria y condiciones geriátricas,% | Hipotiroidismo / enfermedad tiroidea,Prevalencia intraestudio de hipotiroidismo / enfermedad tiroidea,numérica
+227,HS,P2,Morbilidad preoperatoria y condiciones geriátricas,P2. Morbilidad preoperatoria y condiciones geriátricas,% | Infarto de miocardio previo,Prevalencia intraestudio de infarto de miocardio previo,numérica
+228,HT,P2,Morbilidad preoperatoria y condiciones geriátricas,P2. Morbilidad preoperatoria y condiciones geriátricas,% | Insuficiencia cardíaca,Prevalencia intraestudio de insuficiencia cardíaca,numérica
+229,HU,P2,Morbilidad preoperatoria y condiciones geriátricas,P2. Morbilidad preoperatoria y condiciones geriátricas,% | Insuficiencia respiratoria previa,Prevalencia intraestudio de insuficiencia respiratoria previa,numérica
+230,HV,P2,Morbilidad preoperatoria y condiciones geriátricas,P2. Morbilidad preoperatoria y condiciones geriátricas,% | Obesidad,Prevalencia intraestudio de obesidad,numérica
+231,HW,P2,Morbilidad preoperatoria y condiciones geriátricas,P2. Morbilidad preoperatoria y condiciones geriátricas,% | Retención urinaria,Prevalencia intraestudio de retención urinaria,numérica
+232,HX,P2,Morbilidad preoperatoria y condiciones geriátricas,P2. Morbilidad preoperatoria y condiciones geriátricas,% | Sepsis preoperatoria,Prevalencia intraestudio de sepsis preoperatoria,numérica
+233,HY,P2,Morbilidad preoperatoria y condiciones geriátricas,P2. Morbilidad preoperatoria y condiciones geriátricas,% | Tabaquismo / exposición al tabaco,Prevalencia intraestudio de tabaquismo / exposición al tabaco,numérica
+234,HZ,P2,Morbilidad preoperatoria y condiciones geriátricas,P2. Morbilidad preoperatoria y condiciones geriátricas,% | Trastornos hemorrágicos / coagulopatía,Prevalencia intraestudio de trastornos hemorrágicos / coagulopatía,numérica
+235,IA,P2,Morbilidad preoperatoria y condiciones geriátricas,P2. Morbilidad preoperatoria y condiciones geriátricas,% | Trombosis venosa / embolia pulmonar previa,Prevalencia intraestudio de trombosis venosa / embolia pulmonar previa,numérica
+236,IB,P2,Morbilidad preoperatoria y condiciones geriátricas,P2. Morbilidad preoperatoria y condiciones geriátricas,% | Valvulopatía,Prevalencia intraestudio de valvulopatía,numérica
+237,IC,P2,Morbilidad preoperatoria y condiciones geriátricas,P2. Morbilidad preoperatoria y condiciones geriátricas,% | Prevalencia global / carga de comorbilidades no especificadas,Prevalencia intraestudio de prevalencia global / carga de comorbilidades no especificadas,numérica
+238,ID,P2,Morbilidad preoperatoria y condiciones geriátricas,P2. Morbilidad preoperatoria y condiciones geriátricas,prevalencia_dependencia_funcional,Prevalencia informada de dependencia funcional,numérica
+239,IE,P2,Morbilidad preoperatoria y condiciones geriátricas,P2. Morbilidad preoperatoria y condiciones geriátricas,prevalencia_fragilidad,Prevalencia informada de fragilidad,numérica
+240,IF,P2,Morbilidad preoperatoria y condiciones geriátricas,P2. Morbilidad preoperatoria y condiciones geriátricas,prevalencia_sarcopenia,Prevalencia informada de sarcopenia,numérica
+241,IG,P2,Morbilidad preoperatoria y condiciones geriátricas,P2. Morbilidad preoperatoria y condiciones geriátricas,prevalencia_malnutricion,Prevalencia informada de malnutrición,numérica
+242,IH,P2,Morbilidad preoperatoria y condiciones geriátricas,P2. Morbilidad preoperatoria y condiciones geriátricas,prevalencia_deterioro_cognitivo,Prevalencia informada de deterioro cognitivo,numérica
+243,II,P2,Morbilidad preoperatoria y condiciones geriátricas,P2. Morbilidad preoperatoria y condiciones geriátricas,prevalencia_polifarmacia,Prevalencia informada de polifarmacia,numérica
+244,IJ,P2,Horizonte temporal de mortalidad,P2. Horizonte temporal de mortalidad,MOR | Intraoperatoria,Mortalidad evaluada en intraoperatoria,categórica
+245,IK,P2,Horizonte temporal de mortalidad,P2. Horizonte temporal de mortalidad,MOR | Intrahospitalaria,Mortalidad evaluada en intrahospitalaria,categórica
+246,IL,P2,Horizonte temporal de mortalidad,P2. Horizonte temporal de mortalidad,MOR | Perioperatoria sin día preciso,Mortalidad evaluada en perioperatoria sin día preciso,categórica
+247,IM,P2,Horizonte temporal de mortalidad,P2. Horizonte temporal de mortalidad,MOR | 48 horas,Mortalidad evaluada en 48 horas,categórica
+248,IN,P2,Horizonte temporal de mortalidad,P2. Horizonte temporal de mortalidad,MOR | 7 días,Mortalidad evaluada en 7 días,categórica
+249,IO,P2,Horizonte temporal de mortalidad,P2. Horizonte temporal de mortalidad,MOR | 30 días,Mortalidad evaluada en 30 días,categórica
+250,IP,P2,Horizonte temporal de mortalidad,P2. Horizonte temporal de mortalidad,MOR | 90 días,Mortalidad evaluada en 90 días,categórica
+251,IQ,P2,Horizonte temporal de mortalidad,P2. Horizonte temporal de mortalidad,MOR | 180 días,Mortalidad evaluada en 180 días,categórica
+252,IR,P2,Horizonte temporal de mortalidad,P2. Horizonte temporal de mortalidad,MOR | 1 mes,Mortalidad evaluada en 1 mes,categórica
+253,IS,P2,Horizonte temporal de mortalidad,P2. Horizonte temporal de mortalidad,MOR | 3 meses,Mortalidad evaluada en 3 meses,categórica
+254,IT,P2,Horizonte temporal de mortalidad,P2. Horizonte temporal de mortalidad,MOR | 6 meses,Mortalidad evaluada en 6 meses,categórica
+255,IU,P2,Horizonte temporal de mortalidad,P2. Horizonte temporal de mortalidad,MOR | 12 meses,Mortalidad evaluada en 12 meses,categórica
+256,IV,P2,Horizonte temporal de mortalidad,P2. Horizonte temporal de mortalidad,MOR | 2 años,Mortalidad evaluada en 2 años,categórica
+257,IW,P2,Horizonte temporal de mortalidad,P2. Horizonte temporal de mortalidad,MOR | 3 años,Mortalidad evaluada en 3 años,categórica
+258,IX,P2,Horizonte temporal de mortalidad,P2. Horizonte temporal de mortalidad,MOR | 4 años,Mortalidad evaluada en 4 años,categórica
+259,IY,P2,Horizonte temporal de mortalidad,P2. Horizonte temporal de mortalidad,MOR | 5 años,Mortalidad evaluada en 5 años,categórica
+260,IZ,P2,Complicaciones posoperatorias,P2. Complicaciones posoperatorias,COM | Cardíaca no especificada,Complicación de tipo cardíaca no especificada reportada,categórica
+261,JA,P2,Complicaciones posoperatorias,P2. Complicaciones posoperatorias,COM | Infarto de miocardio,Complicación de tipo infarto de miocardio reportada,categórica
+262,JB,P2,Complicaciones posoperatorias,P2. Complicaciones posoperatorias,COM | Arritmia,Complicación de tipo arritmia reportada,categórica
+263,JC,P2,Complicaciones posoperatorias,P2. Complicaciones posoperatorias,COM | Insuficiencia cardíaca,Complicación de tipo insuficiencia cardíaca reportada,categórica
+264,JD,P2,Complicaciones posoperatorias,P2. Complicaciones posoperatorias,COM | Neumonía,Complicación de tipo neumonía reportada,categórica
+265,JE,P2,Complicaciones posoperatorias,P2. Complicaciones posoperatorias,COM | Respiratoria no especificada,Complicación de tipo respiratoria no especificada reportada,categórica
+266,JF,P2,Complicaciones posoperatorias,P2. Complicaciones posoperatorias,COM | Insuficiencia respiratoria,Complicación de tipo insuficiencia respiratoria reportada,categórica
+267,JG,P2,Complicaciones posoperatorias,P2. Complicaciones posoperatorias,COM | Lesión renal aguda,Complicación de tipo lesión renal aguda reportada,categórica
+268,JH,P2,Complicaciones posoperatorias,P2. Complicaciones posoperatorias,COM | Renal no especificada,Complicación de tipo renal no especificada reportada,categórica
+269,JI,P2,Complicaciones posoperatorias,P2. Complicaciones posoperatorias,COM | Infección urinaria,Complicación de tipo infección urinaria reportada,categórica
+270,JJ,P2,Complicaciones posoperatorias,P2. Complicaciones posoperatorias,COM | Infección sitio quirúrgico,Complicación de tipo infección sitio quirúrgico reportada,categórica
+271,JK,P2,Complicaciones posoperatorias,P2. Complicaciones posoperatorias,COM | Sepsis/choque séptico,Complicación de tipo sepsis/choque séptico reportada,categórica
+272,JL,P2,Complicaciones posoperatorias,P2. Complicaciones posoperatorias,COM | Infección no especificada,Complicación de tipo infección no especificada reportada,categórica
+273,JM,P2,Complicaciones posoperatorias,P2. Complicaciones posoperatorias,COM | Delirium/confusión,Complicación de tipo delirium/confusión reportada,categórica
+274,JN,P2,Complicaciones posoperatorias,P2. Complicaciones posoperatorias,COM | Accidente cerebrovascular,Complicación de tipo accidente cerebrovascular reportada,categórica
+275,JO,P2,Complicaciones posoperatorias,P2. Complicaciones posoperatorias,COM | Neurológica no especificada,Complicación de tipo neurológica no especificada reportada,categórica
+276,JP,P2,Complicaciones posoperatorias,P2. Complicaciones posoperatorias,COM | Trombosis venosa profunda,Complicación de tipo trombosis venosa profunda reportada,categórica
+277,JQ,P2,Complicaciones posoperatorias,P2. Complicaciones posoperatorias,COM | Embolia pulmonar,Complicación de tipo embolia pulmonar reportada,categórica
+278,JR,P2,Complicaciones posoperatorias,P2. Complicaciones posoperatorias,COM | Anemia,Complicación de tipo anemia reportada,categórica
+279,JS,P2,Complicaciones posoperatorias,P2. Complicaciones posoperatorias,COM | Transfusión,Complicación de tipo transfusión reportada,categórica
+280,JT,P2,Complicaciones posoperatorias,P2. Complicaciones posoperatorias,COM | Hemorragia/sangrado,Complicación de tipo hemorragia/sangrado reportada,categórica
+281,JU,P2,Complicaciones posoperatorias,P2. Complicaciones posoperatorias,COM | Fractura periprotésica,Complicación de tipo fractura periprotésica reportada,categórica
+282,JV,P2,Complicaciones posoperatorias,P2. Complicaciones posoperatorias,COM | Luxación/dislocación,Complicación de tipo luxación/dislocación reportada,categórica
+283,JW,P2,Complicaciones posoperatorias,P2. Complicaciones posoperatorias,COM | Fallo/infección de prótesis,Complicación de tipo fallo/infección de prótesis reportada,categórica
+284,JX,P2,Complicaciones posoperatorias,P2. Complicaciones posoperatorias,COM | Reoperación/reintervención,Complicación de tipo reoperación/reintervención reportada,categórica
+285,JY,P2,Complicaciones posoperatorias,P2. Complicaciones posoperatorias,COM | Morbilidad/complicación global,Complicación de tipo morbilidad/complicación global reportada,categórica
+286,JZ,P2,Complicaciones posoperatorias,P2. Complicaciones posoperatorias,n_categorias,Número de clases de complicaciones notificadas,numérica
+287,KA,P2,Complicaciones posoperatorias,P2. Complicaciones posoperatorias,n_dos_o_mas,Dos o más clases de complicaciones notificadas,categórica
+288,KB,P2,Resultados clínicos cuantitativos,P2. Resultados clínicos cuantitativos,ASA I (%),Distribución de pacientes ASA I,numérica
+289,KC,P2,Resultados clínicos cuantitativos,P2. Resultados clínicos cuantitativos,ASA II (%),Distribución de pacientes ASA II,numérica
+290,KD,P2,Resultados clínicos cuantitativos,P2. Resultados clínicos cuantitativos,ASA ≥3 (%),Distribución de pacientes ASA III o superior,numérica
+291,KE,P2,Resultados clínicos cuantitativos,P2. Resultados clínicos cuantitativos,% | ACC/AHA moderado,Proporción intraestudio con acc/aha moderado,numérica
+292,KF,P2,Resultados clínicos cuantitativos,P2. Resultados clínicos cuantitativos,% | ACC/AHA mínimo,Proporción intraestudio con acc/aha mínimo,numérica
+293,KG,P2,Resultados clínicos cuantitativos,P2. Resultados clínicos cuantitativos,% | AHFS alto riesgo,Proporción intraestudio con ahfs alto riesgo,numérica
+294,KH,P2,Resultados clínicos cuantitativos,P2. Resultados clínicos cuantitativos,% | P-POSSUM mortalidad predicha,Proporción intraestudio con p-possum mortalidad predicha,numérica
+295,KI,P2,Resultados clínicos cuantitativos,P2. Resultados clínicos cuantitativos,% | POSSUM alto,Proporción intraestudio con possum alto,numérica
+296,KJ,P2,Resultados clínicos cuantitativos,P2. Resultados clínicos cuantitativos,% | Reiss Index alto riesgo,Proporción intraestudio con reiss index alto riesgo,numérica
+297,KK,P2,Resultados clínicos cuantitativos,P2. Resultados clínicos cuantitativos,% | S-MPM grado II,Proporción intraestudio con s-mpm grado ii,numérica
+298,KL,P2,Resultados clínicos cuantitativos,P2. Resultados clínicos cuantitativos,% | S-MPM grado III,Proporción intraestudio con s-mpm grado iii,numérica
+299,KM,P2,Resultados clínicos cuantitativos,P2. Resultados clínicos cuantitativos,prevalencia_reintervencion,Prevalencia de reintervención,numérica
+300,KN,P2,Resultados clínicos cuantitativos,P2. Resultados clínicos cuantitativos,estancia_hospitalaria_resultados,Estancia hospitalaria reportada como resultado,numérica
+301,KO,P2,Resultados clínicos cuantitativos,P2. Resultados clínicos cuantitativos,prevalencia_perdida_capacidad,Prevalencia de pérdida de capacidad funcional,numérica
+302,KP,P1,Calidad del reporte STROBE,P1. Calidad del reporte STROBE,STROBE_01_Titulo_resumen,"Cumplimiento STROBE, ítem 01 — Título y resumen",categórica
+303,KQ,P1,Calidad del reporte STROBE,P1. Calidad del reporte STROBE,STROBE_02_Antecedentes,"Cumplimiento STROBE, ítem 02 — Justificación y antecedentes",categórica
+304,KR,P1,Calidad del reporte STROBE,P1. Calidad del reporte STROBE,STROBE_03_Objetivos,"Cumplimiento STROBE, ítem 03 — Objetivos y presunciones",categórica
+305,KS,P1,Calidad del reporte STROBE,P1. Calidad del reporte STROBE,STROBE_04_Diseno,"Cumplimiento STROBE, ítem 04 — Identificación del diseño",categórica
+306,KT,P1,Calidad del reporte STROBE,P1. Calidad del reporte STROBE,STROBE_05_Contexto,"Cumplimiento STROBE, ítem 05 — Escenario y temporalidad",categórica
+307,KU,P1,Calidad del reporte STROBE,P1. Calidad del reporte STROBE,STROBE_06_Participantes,"Cumplimiento STROBE, ítem 06 — Selección de participantes",categórica
+308,KV,P1,Calidad del reporte STROBE,P1. Calidad del reporte STROBE,STROBE_07_Variables,"Cumplimiento STROBE, ítem 07 — Definición de variables",categórica
+309,KW,P1,Calidad del reporte STROBE,P1. Calidad del reporte STROBE,STROBE_08_Mediciones,"Cumplimiento STROBE, ítem 08 — Fuentes y medición",categórica
+310,KX,P1,Calidad del reporte STROBE,P1. Calidad del reporte STROBE,STROBE_09_Sesgos,"Cumplimiento STROBE, ítem 09 — Tratamiento de sesgos",categórica
+311,KY,P1,Calidad del reporte STROBE,P1. Calidad del reporte STROBE,STROBE_10_Tamano,"Cumplimiento STROBE, ítem 10 — Justificación del tamaño muestral",categórica
+312,KZ,P1,Calidad del reporte STROBE,P1. Calidad del reporte STROBE,STROBE_11_Cuantitativas,"Cumplimiento STROBE, ítem 11 — Tratamiento de variables cuantitativas",categórica
+313,LA,P1,Calidad del reporte STROBE,P1. Calidad del reporte STROBE,STROBE_12_Estadistica,"Cumplimiento STROBE, ítem 12 — Métodos estadísticos",categórica
+314,LB,P1,Calidad del reporte STROBE,P1. Calidad del reporte STROBE,STROBE_13_Flujo,"Cumplimiento STROBE, ítem 13 — Flujo de participantes",categórica
+315,LC,P1,Calidad del reporte STROBE,P1. Calidad del reporte STROBE,STROBE_14_Descriptivos,"Cumplimiento STROBE, ítem 14 — Características descriptivas",categórica
+316,LD,P1,Calidad del reporte STROBE,P1. Calidad del reporte STROBE,STROBE_15_Desenlaces,"Cumplimiento STROBE, ítem 15 — Datos de desenlaces",categórica
+317,LE,P1,Calidad del reporte STROBE,P1. Calidad del reporte STROBE,STROBE_16_Resultado_principal,"Cumplimiento STROBE, ítem 16 — Resultados principales",categórica
+318,LF,P1,Calidad del reporte STROBE,P1. Calidad del reporte STROBE,STROBE_17_Otros_analisis,"Cumplimiento STROBE, ítem 17 — Análisis adicionales",categórica
+319,LG,P1,Calidad del reporte STROBE,P1. Calidad del reporte STROBE,STROBE_18_Hallazgos,"Cumplimiento STROBE, ítem 18 — Hallazgos fundamentales",categórica
+320,LH,P1,Calidad del reporte STROBE,P1. Calidad del reporte STROBE,STROBE_19_Limitaciones,"Cumplimiento STROBE, ítem 19 — Limitaciones",categórica
+321,LI,P1,Calidad del reporte STROBE,P1. Calidad del reporte STROBE,STROBE_20_Interpretacion,"Cumplimiento STROBE, ítem 20 — Interpretación",categórica
+322,LJ,P1,Calidad del reporte STROBE,P1. Calidad del reporte STROBE,STROBE_21_Generalizacion,"Cumplimiento STROBE, ítem 21 — Generalización",categórica
+323,LK,P1,Calidad del reporte STROBE,P1. Calidad del reporte STROBE,STROBE_22_Financiacion,"Cumplimiento STROBE, ítem 22 — Financiación",categórica
+324,LL,P1,Calidad del reporte STROBE,P1. Calidad del reporte STROBE,Puntaje_total_STROBE,Puntaje total de cumplimiento STROBE,numérica
+325,LM,P1,Calidad del reporte STROBE,P1. Calidad del reporte STROBE,Cumplimiento_ponderado_estudio_%,Cumplimiento ponderado STROBE registrado,numérica
+326,LN,P1,Documentación de aplicabilidad,P1. Documentación de aplicabilidad,,(Columna de separación sin encabezado),sin encabezado
+327,LO,P1,Documentación de aplicabilidad,P1. Documentación de aplicabilidad,Observacion_aplicabilidad,Notas de aplicabilidad de la evaluación JBI,texto libre / identificador
+328,LP,P1,Calidad metodológica JBI,P1. Evaluación JBI | Cohortes,COH_01,"Evaluación JBI de cohortes, ítem 01 — Comparabilidad de grupos",categórica
+329,LQ,P1,Calidad metodológica JBI,P1. Evaluación JBI | Cohortes,COH_02,"Evaluación JBI de cohortes, ítem 02 — Medición comparable de la exposición",categórica
+330,LR,P1,Calidad metodológica JBI,P1. Evaluación JBI | Cohortes,COH_03,"Evaluación JBI de cohortes, ítem 03 — Validez y confiabilidad de exposición",categórica
+331,LS,P1,Calidad metodológica JBI,P1. Evaluación JBI | Cohortes,COH_04,"Evaluación JBI de cohortes, ítem 04 — Identificación de variables de confusión",categórica
+332,LT,P1,Calidad metodológica JBI,P1. Evaluación JBI | Cohortes,COH_05,"Evaluación JBI de cohortes, ítem 05 — Control de variables de confusión",categórica
+333,LU,P1,Calidad metodológica JBI,P1. Evaluación JBI | Cohortes,COH_06,"Evaluación JBI de cohortes, ítem 06 — Temporalidad de resultados",categórica
+334,LV,P1,Calidad metodológica JBI,P1. Evaluación JBI | Cohortes,COH_07,"Evaluación JBI de cohortes, ítem 07 — Validez y confiabilidad de resultados",categórica
+335,LW,P1,Calidad metodológica JBI,P1. Evaluación JBI | Cohortes,COH_08,"Evaluación JBI de cohortes, ítem 08 — Duración de seguimiento",categórica
+336,LX,P1,Calidad metodológica JBI,P1. Evaluación JBI | Cohortes,COH_09,"Evaluación JBI de cohortes, ítem 09 — Completitud del seguimiento",categórica
+337,LY,P1,Calidad metodológica JBI,P1. Evaluación JBI | Cohortes,COH_10,"Evaluación JBI de cohortes, ítem 10 — Manejo de pérdidas de seguimiento",categórica
+338,LZ,P1,Calidad metodológica JBI,P1. Evaluación JBI | Cohortes,COH_11,"Evaluación JBI de cohortes, ítem 11 — Pertinencia del análisis estadístico",categórica
+339,MA,P1,Calidad metodológica JBI,P1. Evaluación JBI | Cohortes,Puntaje_total_COH,Puntaje total JBI en cohortes,numérica
+340,MB,P1,Calidad metodológica JBI,P1. Evaluación JBI | Cohortes,Categoria_total_COH,Categoría de calidad metodológica de cohortes,categórica
+341,MC,P1,Calidad metodológica JBI,P1. Evaluación JBI | Casos y controles,CC_01,"Evaluación JBI de casos y controles, ítem 01",categórica
+342,MD,P1,Calidad metodológica JBI,P1. Evaluación JBI | Casos y controles,CC_02,"Evaluación JBI de casos y controles, ítem 02",categórica
+343,ME,P1,Calidad metodológica JBI,P1. Evaluación JBI | Casos y controles,CC_03,"Evaluación JBI de casos y controles, ítem 03",categórica
+344,MF,P1,Calidad metodológica JBI,P1. Evaluación JBI | Casos y controles,CC_04,"Evaluación JBI de casos y controles, ítem 04",categórica
+345,MG,P1,Calidad metodológica JBI,P1. Evaluación JBI | Casos y controles,CC_05,"Evaluación JBI de casos y controles, ítem 05",categórica
+346,MH,P1,Calidad metodológica JBI,P1. Evaluación JBI | Casos y controles,CC_06,"Evaluación JBI de casos y controles, ítem 06",categórica
+347,MI,P1,Calidad metodológica JBI,P1. Evaluación JBI | Casos y controles,CC_07,"Evaluación JBI de casos y controles, ítem 07",categórica
+348,MJ,P1,Calidad metodológica JBI,P1. Evaluación JBI | Casos y controles,CC_08,"Evaluación JBI de casos y controles, ítem 08",categórica
+349,MK,P1,Calidad metodológica JBI,P1. Evaluación JBI | Casos y controles,CC_09,"Evaluación JBI de casos y controles, ítem 09",categórica
+350,ML,P1,Calidad metodológica JBI,P1. Evaluación JBI | Casos y controles,CC_10,"Evaluación JBI de casos y controles, ítem 10",categórica
+351,MM,P1,Calidad metodológica JBI,P1. Evaluación JBI | Casos y controles,Puntaje_total_CC,Puntaje total JBI en casos y controles,numérica
+352,MN,P1,Calidad metodológica JBI,P1. Evaluación JBI | Casos y controles,Categoria_total_CC,Categoría de calidad de casos y controles,categórica
+353,MO,P1,Calidad metodológica JBI,P1. Evaluación JBI | Series de casos,SC_01,"Evaluación JBI de series de casos, ítem 01",categórica
+354,MP,P1,Calidad metodológica JBI,P1. Evaluación JBI | Series de casos,SC_02,"Evaluación JBI de series de casos, ítem 02",categórica
+355,MQ,P1,Calidad metodológica JBI,P1. Evaluación JBI | Series de casos,SC_03,"Evaluación JBI de series de casos, ítem 03",categórica
+356,MR,P1,Calidad metodológica JBI,P1. Evaluación JBI | Series de casos,SC_04,"Evaluación JBI de series de casos, ítem 04",categórica
+357,MS,P1,Calidad metodológica JBI,P1. Evaluación JBI | Series de casos,SC_05,"Evaluación JBI de series de casos, ítem 05",categórica
+358,MT,P1,Calidad metodológica JBI,P1. Evaluación JBI | Series de casos,SC_06,"Evaluación JBI de series de casos, ítem 06",categórica
+359,MU,P1,Calidad metodológica JBI,P1. Evaluación JBI | Series de casos,SC_07,"Evaluación JBI de series de casos, ítem 07",categórica
+360,MV,P1,Calidad metodológica JBI,P1. Evaluación JBI | Series de casos,SC_08,"Evaluación JBI de series de casos, ítem 08",categórica
+361,MW,P1,Calidad metodológica JBI,P1. Evaluación JBI | Series de casos,SC_09,"Evaluación JBI de series de casos, ítem 09",categórica
+362,MX,P1,Calidad metodológica JBI,P1. Evaluación JBI | Series de casos,SC_10,"Evaluación JBI de series de casos, ítem 10",categórica
+363,MY,P1,Calidad metodológica JBI,P1. Evaluación JBI | Series de casos,Puntaje_total_SC,Puntaje total JBI en series de casos,numérica
+364,MZ,P1,Calidad metodológica JBI,P1. Evaluación JBI | Series de casos,Categoria_total_SC,Categoría de calidad de series de casos,categórica
+365,NA,P1,Calidad metodológica JBI,P1. Evaluación JBI | Prevalencia,PR_01,"Evaluación JBI de prevalencia, ítem 01",categórica
+366,NB,P1,Calidad metodológica JBI,P1. Evaluación JBI | Prevalencia,PR_02,"Evaluación JBI de prevalencia, ítem 02",categórica
+367,NC,P1,Calidad metodológica JBI,P1. Evaluación JBI | Prevalencia,PR_03,"Evaluación JBI de prevalencia, ítem 03",categórica
+368,ND,P1,Calidad metodológica JBI,P1. Evaluación JBI | Prevalencia,PR_04,"Evaluación JBI de prevalencia, ítem 04",categórica
+369,NE,P1,Calidad metodológica JBI,P1. Evaluación JBI | Prevalencia,PR_05,"Evaluación JBI de prevalencia, ítem 05",categórica
+370,NF,P1,Calidad metodológica JBI,P1. Evaluación JBI | Prevalencia,PR_06,"Evaluación JBI de prevalencia, ítem 06",categórica
+371,NG,P1,Calidad metodológica JBI,P1. Evaluación JBI | Prevalencia,PR_07,"Evaluación JBI de prevalencia, ítem 07",categórica
+372,NH,P1,Calidad metodológica JBI,P1. Evaluación JBI | Prevalencia,PR_08,"Evaluación JBI de prevalencia, ítem 08",categórica
+373,NI,P1,Calidad metodológica JBI,P1. Evaluación JBI | Prevalencia,PR_09,"Evaluación JBI de prevalencia, ítem 09",categórica
+374,NJ,P1,Calidad metodológica JBI,P1. Evaluación JBI | Prevalencia,Puntaje_total_PR,Puntaje total JBI en estudios de prevalencia,numérica
+375,NK,P1,Calidad metodológica JBI,P1. Evaluación JBI | Prevalencia,Categoria_total_PR,Categoría de calidad de estudios de prevalencia,categórica
