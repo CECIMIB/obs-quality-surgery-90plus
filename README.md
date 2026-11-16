@@ -1,4 +1,4 @@
-# Manuscript 1 V7 — Supplementary data and R code archive (DRAFT)
+# Manuscript 1 V7 — Supplementary data and R code archive
 
 ## Status and manuscript use
 
