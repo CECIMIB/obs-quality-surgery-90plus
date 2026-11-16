@@ -1,5 +1,3 @@
-# Manuscript 1 V7 — Supplementary data and R code archive
-
 ## Status and manuscript use
 
 **NOT FINAL OR VALIDATED FOR ZENODO RELEASE.** This archive preserves the 13 uploaded spreadsheet/script files byte-for-byte under stable descriptive names. It also includes the V7 source matrix, two recovered dictionaries, a compatibility reference copy, the existing three main and 20 numbered supplementary tables, and the 4 main plus 8 supplementary figure PDFs. No published Zenodo DOI has been assigned. The R scripts have **not** been executed in this environment because Rscript is unavailable. Some were independently written to reproduce results originally calculated in Python; exact numerical agreement has **not** been established.
